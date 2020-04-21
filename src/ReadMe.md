@@ -1,0 +1,1 @@
+    This class creates the best possible playlist of music using a Java ArrayList and it manipulates songs in the playlist
